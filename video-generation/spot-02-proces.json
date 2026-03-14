@@ -1,0 +1,26 @@
+{
+  "title": "PropGate Spot 02 — Proces 1-2-3",
+  "duration_seconds": 20,
+  "language": "pl-PL",
+  "render": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "fps": 25,
+    "style": "tech explainer ad",
+    "camera": "medium shot + holographic inserts"
+  },
+  "character": {
+    "type": "cute stylized 3D fox mascot",
+    "look": "orange fur fox in dark hoodie with PropGate logo",
+    "mood": "clear educator tone"
+  },
+  "master_prompt": "Generate a 20-second vertical Polish ad video. A 3D fox mascot explains 3 steps using holographic icons on a dark blue tech background. Step cards appear clearly: 1) Wybierz program, 2) Zdaj challenge, 3) Odbierz konto fundowane. Smooth transitions, crisp typography, high readability. Final card with logo and URL 'propgate.ai'. Keep tone informative and compliant, no promises of guaranteed results.",
+  "negative_prompt": "tiny illegible text, jittering transitions, logo distortion, low contrast subtitles, uncanny mouth",
+  "voiceover_pl": "Jak to działa? Krok pierwszy: wybierasz program. Krok drugi: realizujesz challenge według zasad. Krok trzeci: po weryfikacji możesz uzyskać konto fundowane. Prosto, konkretnie i bez komplikacji. Wejdź na propgate.ai.",
+  "overlay_text": [
+    { "start": 0, "end": 6, "text": "1. Wybierz program" },
+    { "start": 6, "end": 12, "text": "2. Zdaj challenge" },
+    { "start": 12, "end": 17, "text": "3. Odbierz konto fundowane" },
+    { "start": 17, "end": 20, "text": "Sprawdź: propgate.ai" }
+  ]
+}
