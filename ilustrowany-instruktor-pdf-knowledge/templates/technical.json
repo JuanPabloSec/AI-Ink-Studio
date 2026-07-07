@@ -1,0 +1,41 @@
+{
+  "name": "Techniczny",
+  "description": "Szablon dla instrukcji technicznych i rysunkow inzynierskich",
+  "settings": {
+    "page_size": "A4",
+    "margins": {
+      "left": 2,
+      "right": 2,
+      "top": 2,
+      "bottom": 2
+    },
+    "font": {
+      "title": "DejaVuSans-Bold",
+      "heading": "DejaVuSans-Bold",
+      "body": "DejaVuSans"
+    },
+    "colors": {
+      "primary": "#3498db",
+      "secondary": "#2c3e50",
+      "accent": "#e74c3c",
+      "text": "#333333",
+      "background": "#ffffff"
+    }
+  },
+  "structure": {
+    "cover_page": true,
+    "table_of_contents": true,
+    "safety_section": true,
+    "materials_list": true,
+    "step_by_step": true,
+    "troubleshooting": true,
+    "appendices": ["glossary", "references"]
+  },
+  "image_style": {
+    "preset": "technical",
+    "background": "clean white background",
+    "style": "technical diagram, isometric view, CAD style",
+    "colors": "black and white with blue accents",
+    "quality": "vector style, crisp lines, precise measurements"
+  }
+}
