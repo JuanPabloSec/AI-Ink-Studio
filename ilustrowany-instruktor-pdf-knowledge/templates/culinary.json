@@ -1,0 +1,43 @@
+{
+  "name": "Kulinarny",
+  "description": "Szablon dla przepisow kulinarnych i instrukcji gotowania",
+  "settings": {
+    "page_size": "A4",
+    "margins": {
+      "left": 2,
+      "right": 2,
+      "top": 1.5,
+      "bottom": 1.5
+    },
+    "font": {
+      "title": "DejaVuSans-Bold",
+      "heading": "DejaVuSans-Bold",
+      "body": "DejaVuSans"
+    },
+    "colors": {
+      "primary": "#e74c3c",
+      "secondary": "#f39c12",
+      "accent": "#2ecc71",
+      "text": "#333333",
+      "background": "#fff8f0"
+    }
+  },
+  "structure": {
+    "cover_page": true,
+    "recipe_card": true,
+    "ingredients_list": true,
+    "preparation_steps": true,
+    "cooking_time": true,
+    "servings": true,
+    "nutrition_facts": true,
+    "tips": true
+  },
+  "image_style": {
+    "preset": "food",
+    "background": "wooden table background",
+    "style": "professional food photography",
+    "colors": "vibrant, appetizing colors",
+    "quality": "high detail, shallow depth of field",
+    "lighting": "natural daylight, soft and warm"
+  }
+}
