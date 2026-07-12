@@ -1,0 +1,25 @@
+{
+  "title": "PropGate Spot 01 — Start z kontem fundowanym",
+  "duration_seconds": 20,
+  "language": "pl-PL",
+  "render": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "style": "clean cinematic social ad",
+    "camera": "slow push-in, subtle handheld micro-movement"
+  },
+  "character": {
+    "type": "cute stylized 3D fox mascot",
+    "look": "orange fur, big expressive eyes, hoodie with blue PropGate logo, shorts, boots",
+    "mood": "friendly, confident, trustworthy"
+  },
+  "master_prompt": "Create a 20-second vertical 9:16 polished ad video. A cute stylized 3D fox mascot speaks directly to camera in Polish with natural lip sync and subtle hand gestures. Blue studio background with cinematic key light and soft rim light. Hoodie includes PropGate logo. Add short on-screen text cards: 'Konta fundowane', 'Jasne zasady', 'Rozwój tradera'. Keep pacing fast and social-media native. Last 3 seconds: dark background with glowing PropGate logo and big CTA text 'Wejdz na propgate.ai'. No guaranteed-profit claims.",
+  "negative_prompt": "blurry face, broken anatomy, extra limbs, unreadable text, watermark, wrong logo colors, robotic lipsync, overexposed, noisy frame",
+  "voiceover_pl": "Chcesz handlować większym kapitałem bez ryzykowania całych oszczędności? W PropGate przechodzisz challenge, działasz według jasnych zasad i rozwijasz się jako trader. Sprawdź szczegóły i warunki na propgate.ai.",
+  "overlay_text": [
+    { "start": 0, "end": 6, "text": "Konta fundowane dla traderów" },
+    { "start": 6, "end": 13, "text": "Challenge • Jasne zasady • Rozwój" },
+    { "start": 13, "end": 20, "text": "Wejdź na propgate.ai" }
+  ]
+}

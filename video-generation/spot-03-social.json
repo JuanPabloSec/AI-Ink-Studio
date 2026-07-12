@@ -1,0 +1,25 @@
+{
+  "title": "PropGate Spot 03 — Social Dynamic",
+  "duration_seconds": 20,
+  "language": "pl-PL",
+  "render": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "style": "high-energy social short",
+    "camera": "whip-pan cuts, punchy close-ups"
+  },
+  "character": {
+    "type": "cute stylized 3D fox mascot",
+    "look": "energetic fox with PropGate hoodie on blue gradient stage",
+    "mood": "motivating, upbeat"
+  },
+  "master_prompt": "Create a 20-second vertical ad for social media in Polish. Fast editing, close-ups of a friendly fox mascot speaking to camera with excellent lip sync. Blue gradient background, subtle flares, modern ad aesthetics. Add bold animated text pops: 'Czas wejść wyżej', 'Konto fundowane', 'propgate.ai'. End with freeze frame of fox + PropGate logo. Ensure clear brand-safe tone and no guaranteed profit messaging.",
+  "negative_prompt": "flickering subtitles, spelling errors, incorrect URL, artifacting, logo cut off",
+  "voiceover_pl": "Traderze, czas wejść wyżej. Konto fundowane od PropGate to szansa, żeby handlować większym kapitałem na jasnych zasadach. Nie czekaj. Wejdź na propgate.ai i sprawdź, czy to dla Ciebie.",
+  "overlay_text": [
+    { "start": 0, "end": 7, "text": "Czas wejść wyżej" },
+    { "start": 7, "end": 14, "text": "Konto fundowane • Jasne zasady" },
+    { "start": 14, "end": 20, "text": "Dołącz: propgate.ai" }
+  ]
+}
